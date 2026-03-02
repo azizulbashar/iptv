@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/26/Aljazeera_net.gif" group-title="WORLD NEWS" tvg-country="BD" tvg-server="Server 1",AL JAZEERA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="WORLD NEWS" tvg-country="BD" tvg-server="Server 1",ARAY NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="ENTERTAINMENT" tvg-country="BD" tvg-server="Server 1",ATN BANGLA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://www.atnnewstv.com/assets/img/logo@1x.webp" group-title="BD NEWS" tvg-country="BD" tvg-server="Server 1",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg" group-title="ENTERTAINMENT" tvg-country="BD" tvg-server="Server 1",BANGLA VISION
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75" group-title="ENTERTAINMENT" tvg-country="BD" tvg-server="Server 1",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNNEtR1SClLNvcOkXIBxBO1fmi9SjaPuJNGfHhjOMsp2NGNtYA4xtto2SN5jeHn_fusqPqADrMg90SrKg6YlNzvtEqRX7M9a4DScmJDBw&s=10" group-title="BD NEWS" tvg-country="BD" tvg-server="Server 1",CHANNEL 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIhuAAcreIh9df158foU3XLKcj5fD8lvzAQ&s" group-title="ENTERTAINMENT" tvg-country="BD" tvg-server="Server 1",CHANNEL 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/250px-Channel-i.svg.png" group-title="ENTERTAINMENT" tvg-country="BD" tvg-server="Server 1",CHANNEL I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://yt3.googleusercontent.com/i5T0QE8rWWQFpgr-XMpxJOdJmjt9XK5CWCiHFHgdQTP_wVSGjs3HpE3uMmE_GaZkT7e_S_HGFQE=s900-c-k-c0x00ffffff-no-rj" group-title="BD NEWS" tvg-country="BD" tvg-server="Server 1",DBC NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCoLFuqm-nzmp0PoB2kwoJJDMsPW_Rd0OZqbRqTEvjoelxgUOB-FcYru8FumxodJiCHU3QwRUDdTViGIk1FLzlXOf3rkFUZ5CwNZA8SU&s=10" group-title="ENTERTAINMENT" tvg-country="BD" tvg-server="Server 1",DEEPTO TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" group-title="BD NEWS" tvg-country="BD" tvg-server="Server 1",EKATTOR TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Ekhon_Logo.svg/250px-Ekhon_Logo.svg.png" group-title="ENTERTAINMENT" tvg-country="BD" tvg-server="Server 1",EKHON TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://yt3.googleusercontent.com/JO8MicN497ze8WVXcu-wmA2WAMqhO8UIQhslV3VhiRu1kaQU3r9nOB4IVkmUt0ALC23DVSSp=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BD NEWS" tvg-country="BD" tvg-server="Server 1",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://play-lh.googleusercontent.com/HB_K5ZUcWFfYBcST4buqJ_Oq3g16g4F8jbWLV3jrytGLcWks9ld0R_8ccdxDS_9gqPyP=w240-h480-rw" group-title="BD NEWS" tvg-country="BD" tvg-server="Server 1",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://play-lh.googleusercontent.com/gmWipAJmtIoQX0sbEocEe9bwp3FMsLBqVvnpr1pJ0I_El_euPBwDl7eM2T-NHEVFgXI" group-title="BD NEWS" tvg-country="BD" tvg-server="Server 1",NEWS 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://cdnhost.akashbd.net/assets/images/akash-logo-blue.svg?v=10.5.18" group-title="NOT CONFIRM" tvg-country="BD" tvg-server="Server 1",NOT CONFIRM 1707
+https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/1707.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://cdnhost.akashbd.net/assets/images/akash-logo-blue.svg?v=10.5.18" group-title="NOT CONFIRM" tvg-country="BD" tvg-server="Server 1",NOT CONFIRM 1712
+https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/1712.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://cdnhost.akashbd.net/assets/images/akash-logo-blue.svg?v=10.5.18" group-title="NOT CONFIRM" tvg-country="BD" tvg-server="Server 1",NOT CONFIRM 1714
+https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/1714.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://cdnhost.akashbd.net/assets/images/akash-logo-blue.svg?v=10.5.18" group-title="NOT CONFIRM" tvg-country="BD" tvg-server="Server 1",NOT CONFIRM 1717
+https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/1717.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://cdnhost.akashbd.net/assets/images/akash-logo-blue.svg?v=10.5.18" group-title="NOT CONFIRM" tvg-country="BD" tvg-server="Server 1",NOT CONFIRM 1718
+https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/1718.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://cdnhost.akashbd.net/assets/images/akash-logo-blue.svg?v=10.5.18" group-title="NOT CONFIRM" tvg-country="BD" tvg-server="Server 1",NOT CONFIRM 1727
+https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/1727.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://cdnhost.akashbd.net/assets/images/akash-logo-blue.svg?v=10.5.18" group-title="NOT CONFIRM" tvg-country="BD" tvg-server="Server 1",NOT CONFIRM 1730
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/1730.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="ENTERTAINMENT" tvg-country="BD" tvg-server="Server 1",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://timetvplus.com/uploads/tv_image/sa-tv.jpg" group-title="ENTERTAINMENT" tvg-country="BD" tvg-server="Server 1",SA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/250px-SOMOY_TV_Logo.svg.png" group-title="BD NEWS" tvg-country="BD" tvg-server="Server 1",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://yt3.googleusercontent.com/yFoFpW9JZXbCkMbrc7fc0NJP_1ZqM-aUgIbikDNW_jxudVKod0hU4sdXDjgJR4Y1N7Vz1BiXDPg=s900-c-k-c0x00ffffff-no-rj" group-title="BD NEWS" tvg-country="BD" tvg-server="Server 1",STAR NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710.m3u8
