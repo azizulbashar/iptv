@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="12" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" group-title="News" tvg-country="BD" tvg-server="Server 1",Al Jazeera [BD]
+#EXTINF:-1 tvg-id="12" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" group-title="News" tvg-country="BD" tvg-server="Server 1",Al Jazeera [QR]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="ARY News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770531824347.png" group-title="News" tvg-country="BD" tvg-server="Server 1",ARY News [BD]
+#EXTINF:-1 tvg-id="31" tvg-name="ARY News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770531824347.png" group-title="News" tvg-country="BD" tvg-server="Server 1",ARY News [PK]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="ATN Bangla" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png" group-title="Entertainment" tvg-country="BD" tvg-server="Server 1",ATN Bangla [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
