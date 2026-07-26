@@ -3,7 +3,7 @@
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="Desh TV" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1777190907-15261425.png?v=10.5.15" group-title="Entertainment" tvg-country="BD" tvg-server="Server 1",Desh TV [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="ATN Bangla" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png" group-title="Entertainment" tvg-country="BD" tvg-server="Server 1",ATN Bangla [BD]
+#EXTINF:-1 tvg-id="29" tvg-name="Masranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png" group-title="Entertainment" tvg-country="BD" tvg-server="Server 1",Masranga TV [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="News" tvg-country="BD" tvg-server="Server 1",ATN News [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
